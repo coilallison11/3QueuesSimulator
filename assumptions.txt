@@ -1,0 +1,6 @@
+Some assumptions that I've made about the behavior of the Servers and Customers in this simulatiosn include that
+the Customers join the line as soon as they arrive, that they do not cut in line, that they do not leave the line or switch lines, 
+that they make decisions on which line to join based on which line is the shortest (taking into account which Servers are busy),
+and that they leave their Server as soon as their service is finished. For the Servers, I've assumed that they don't go on break, 
+that their shift does not end until all Customers have been served, that they do not invite Cus tomers waiting in other lines 
+into their line when not busy, and that they do not take any time in between Customers.
